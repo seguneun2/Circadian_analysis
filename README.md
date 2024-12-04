@@ -7,7 +7,7 @@ This repository contains scripts and data for analyzing circadian rhythms using 
 - **analysis/**: Jupyter Notebooks and Python scripts for Sleep Analysis and Circadian analysis.
 - **data/**: Data preprocessing scripts.
 - **utils/**: Utility functions for data preprocessing and visualization.
-- **output/**: Results and visualizations from the analysis.
+- **output**: Results and visualizations from the analysis.
 
 ## Requirements
 
